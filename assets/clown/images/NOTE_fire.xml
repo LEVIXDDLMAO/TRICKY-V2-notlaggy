@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<TextureAtlas imagePath="NOTE_fire.png">
-	<!-- Created with Adobe Animate version 21.0.3.38773 -->
-	<!-- http://www.adobe.com/products/animate.html -->
-	<SubTexture name="blue fire0000" x="5" y="5" width="269" height="397" frameX="-13" frameY="-11" frameWidth="295" frameHeight="525"/>
-	<SubTexture name="green fire0000" x="3440" y="5" width="269" height="397" frameX="-13" frameY="-11" frameWidth="295" frameHeight="525"/>
-	<SubTexture name="purple fire0000" x="2870" y="521" width="269" height="397" frameX="-13" frameY="-11" frameWidth="295" frameHeight="525"/>
-	<SubTexture name="red fire0000" x="2297" y="1037" width="269" height="397" frameX="-13" frameY="-11" frameWidth="295" frameHeight="525"/>
-</TextureAtlas>
